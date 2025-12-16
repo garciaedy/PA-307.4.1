@@ -1,0 +1,50 @@
+body {
+    background: #222;
+    color: white;
+    font-family: Arial;
+}
+
+#main_container {
+    width: 90%;
+    margin: auto;
+}
+
+#section1 {
+    border: 2px solid cyan;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+#row1 {
+    display: flex;
+}
+
+#box1 {
+    width: 60%;
+}
+
+#box2 {
+    width: 40%;
+}
+
+#box3 {
+    margin-top: 10px;
+}
+
+.profile_img {
+    width: 120px;
+}
+
+#section2 {
+    width: 65%;
+    float: left;
+    border: 2px solid orange;
+    padding: 10px;
+}
+
+#section3 {
+    width: 30%;
+    float: right;
+    border: 2px solid yellow;
+    padding: 10px;
+}
